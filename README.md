@@ -6,19 +6,18 @@ Solution of the Programs from all the topics but unsorted. Will sort them later.
 
 1. [Premium Calculations](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/Un-Sorted/Premium%20Calculation)
 2. [Bank Account Details](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Bank%20Account%20Details.jpg)
-3. [Double Discount](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Double%20Discount.cs)
-4. [Double Discount 2](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Double%20Discount%202.cs)
-5. [Draw Pattern](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Draw%20Pattern.cs)
-6. [Dream Theme Park](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Dream%20Theme%20Park.html)
-7. [Electricity Bill](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Electricity%20Bill.cs)
-8. [Expense Management System](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Expense%20Management%20System%20solution.zip)
-9. [Expense Management System 2](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Expense%20Management%20System.zip)
-10. [ICT and Mock ICT C#](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/ICT%20and%20Mock%20ICT-main.zip)
-11. [Premium Calculation](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Premium%20Calculation.cs)
-12. [Sort By Price](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Sort%20By%20Price.cs)
-13. [Unknown Programs](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/Un-Sorted/Unknown)
-14. [Customer Utility](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/Un-Sorted/Customer%20Utility)
-15. [Grade Calculation](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/Un-Sorted/Grade%20Calculation)
+3. [Double Discount 2](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Double%20Discount%202.cs)
+4. [Draw Pattern](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Draw%20Pattern.cs)
+5. [Dream Theme Park](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Dream%20Theme%20Park.html)
+6. [Electricity Bill](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Electricity%20Bill.cs)
+7. [Expense Management System](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Expense%20Management%20System%20solution.zip)
+8. [Expense Management System 2](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Expense%20Management%20System.zip)
+9. [ICT and Mock ICT C#](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/ICT%20and%20Mock%20ICT-main.zip)
+10. [Premium Calculation](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Premium%20Calculation.cs)
+11. [Sort By Price](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Sort%20By%20Price.cs)
+12. [Unknown Programs](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/Un-Sorted/Unknown)
+13. [Customer Utility](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/Un-Sorted/Customer%20Utility)
+14. [Grade Calculation](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/Un-Sorted/Grade%20Calculation)
 
 
 ## DotNet Fundamentals and Soft Skills
@@ -112,7 +111,7 @@ Solution of the Programs from all the topics but unsorted. Will sort them later.
 5. [UserDetails](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Hands-On/DataTypes%20And%20Variables%20Functions%20Methods%2C%20Decision%20Making/05.%20UserDetails.cs)
 6. [BooleanResult](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Hands-On/DataTypes%20And%20Variables%20Functions%20Methods%2C%20Decision%20Making/06.%20BooleanResult.cs)
 
-### Looping constructs, Arrays & Inheritance and Polymorphism
+#### Looping constructs, Arrays & Inheritance and Polymorphism
 
 1. [Quiz Competition Report](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Hands-On/Looping%20constructs%2C%20Arrays%20%26%20Inheritance%20and%20Polymorphism/01.%20Quiz%20Competition%20Report.cs)
 2. [Account Details](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Hands-On/Looping%20constructs%2C%20Arrays%20%26%20Inheritance%20and%20Polymorphism/02.%20Account%20Details.cs)
@@ -121,7 +120,7 @@ Solution of the Programs from all the topics but unsorted. Will sort them later.
 5. [Reverse a Sentence](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Hands-On/Looping%20constructs%2C%20Arrays%20%26%20Inheritance%20and%20Polymorphism/05.%20Reverse%20a%20Sentence.cs)
 6. [Load Validator - Hands-On](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Hands-On/Looping%20constructs%2C%20Arrays%20%26%20Inheritance%20and%20Polymorphism/06.%20Load%20Validator%20-%20Hands-On.cs)
 
-### Lambda Expressions, Access Modifiers, Lists, Arraylists vs Lists vs Arrays, Structs, Enums, Math Class, Random Class, Regular Expressions, DateTime, Linq
+#### Lambda Expressions, Access Modifiers, Lists, Arraylists vs Lists vs Arrays, Structs, Enums, Math Class, Random Class, Regular Expressions, DateTime, Linq
 
 1. [Flight Status](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Hands-On/Lambda%20Expressions%2C%20and%20more/01.%20Flight%20Status.cs)
 2. [Append Text To A File](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Hands-On/Lambda%20Expressions%2C%20and%20more/02.%20Append%20Text%20to%20a%20file)
@@ -131,7 +130,10 @@ Solution of the Programs from all the topics but unsorted. Will sort them later.
 6. [AddNewMember - Hands - On](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Hands-On/Lambda%20Expressions%2C%20and%20more/06.%20AddNewMember%20-%20Hands-%20On.cs)
 7. [Age Calculation](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Hands-On/Lambda%20Expressions%2C%20and%20more/07.%20Age%20Calculation.cs)
 
-#### Code Challenges
+##### Code Challenges
+
+##### 1. C# - Operators and Decision
+* [Clearance Sale](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%201%20-%20C%23%20-%20Operators%20and%20Decision/01.%20Clearance%20Sale.cs)
 
 ##### 2. C# - Function
 * [Pay Calculation](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%202%20-%20C%23%20-%20Function/Pay%20Calculation.cs)
@@ -139,9 +141,13 @@ Solution of the Programs from all the topics but unsorted. Will sort them later.
 ##### 3. C# - Loops and Arrays
 * [Score Capture](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%203%20-%20C%23%20-%20Loops%20and%20Arrays/01.%20Score%20Capture.cs)
 
+##### 4. C# - Class and object
+* [Incremental Interface](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%204%20-%20C%23%20-%20Class%20and%20object/01.%20Incremental%20Interface.cs)
+
 ##### 5. C# - Collection, Lambda, Struct and Enum
 * [Filter Employee List](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%205%20-%20C%23%20-%20Collection%2C%20Lambda%2C%20Struct%20and%20Enum/01.%20Filter%20Employee%20List/Program.cs)
-* [Incremental Interface](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%205%20-%20C%23%20-%20Collection%2C%20Lambda%2C%20Struct%20and%20Enum/02.%20Incremental%20Interface.cs)
+* [Double Discount](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%205%20-%20C%23%20-%20Collection%2C%20Lambda%2C%20Struct%20and%20Enum/02.%20Double%20Discount.cs)
+
 
 ##### 6. C# - Code Challenge 6 - Linq
 * [Salary Greater Than Average](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%206%20-%20C%23%20-%20Linq/Salary%20Greater%20than%20Average%20-%20Linq/Program.cs)
