@@ -13,10 +13,9 @@ namespace CodeChallenge_Enum
         Bronze,
         Null
     }; 
+	
     class Program
-    {     
-        
-
+    {             
         static void Main()
         {
             Console.WriteLine("Enter Customer's Name");
@@ -50,6 +49,7 @@ namespace CodeChallenge_Enum
 
             customer.DisplayDetails();
         }
+		
         struct Purchase
         {
             public string CustomerName { get; set; }
@@ -76,6 +76,7 @@ namespace CodeChallenge_Enum
                 }
                 return deducedAmount;
             }
+			
             public double CalculateNetPayableAmount(CardType x, double y)
             {
                 if (x == CardType.Gold)
@@ -95,11 +96,11 @@ namespace CodeChallenge_Enum
                     return (y);
                 }
             }
+			
             public void DisplayDetails()
             {
                 Console.WriteLine("Customer Name:{0,-10} Customer Purchased amount:{1,-10} Customer CardType:{2,-10} Customer's Payable Amount:{3}",this.CustomerName,this.PurchaseAmount,this.MemberCardType,this.PayableAmount);
                 Console.ReadKey();
-
             }
 		}			
     }
