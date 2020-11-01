@@ -16,8 +16,7 @@ Solution of the Programs from all the topics but unsorted. Will sort them later.
 10. [Premium Calculation](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Premium%20Calculation.cs)
 11. [Sort By Price](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/Un-Sorted/Sort%20By%20Price.cs)
 12. [Unknown Programs](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/Un-Sorted/Unknown)
-13. [Customer Utility](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/Un-Sorted/Customer%20Utility)
-14. [Grade Calculation](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/Un-Sorted/Grade%20Calculation)
+13. [Grade Calculation](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/Un-Sorted/Grade%20Calculation)
 
 
 ## DotNet Fundamentals and Soft Skills
@@ -143,10 +142,12 @@ Solution of the Programs from all the topics but unsorted. Will sort them later.
 
 ##### 4. C# - Class and object
 * [Incremental Interface](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%204%20-%20C%23%20-%20Class%20and%20object/01.%20Incremental%20Interface.cs)
+* [Insurance Calculation - Work with Polymorphism](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/tree/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%204%20-%20C%23%20-%20Class%20and%20object/02.%20Insurance%20Calculation%20-%20Work%20with%20Polymorphism)
 
 ##### 5. C# - Collection, Lambda, Struct and Enum
 * [Filter Employee List](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%205%20-%20C%23%20-%20Collection%2C%20Lambda%2C%20Struct%20and%20Enum/01.%20Filter%20Employee%20List/Program.cs)
 * [Double Discount](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%205%20-%20C%23%20-%20Collection%2C%20Lambda%2C%20Struct%20and%20Enum/02.%20Double%20Discount.cs)
+* [Customer Utility](https://github.com/GodStarLord/Cognizant_Early_Engagement_DotNet_Path/blob/master/C%23%20Programming%20Fundamentals%20and%20Soft%20Skills/Code%20Challenges/Code%20Challenge%205%20-%20C%23%20-%20Collection%2C%20Lambda%2C%20Struct%20and%20Enum/03.%20Customer%20Utility.cs)
 
 
 ##### 6. C# - Code Challenge 6 - Linq
