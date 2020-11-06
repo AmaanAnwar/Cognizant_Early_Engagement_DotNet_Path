@@ -1,0 +1,156 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>Book Your Tickets</title>
+        <style>
+            body {
+                background-color: #FFAACC;
+            }
+            
+            h1 {
+                color: #770080;
+                font-family: Courier New;
+                font-style: italic;
+                text-align: center;
+            }
+            
+            #result {
+                color: #770080;
+                font-weight: bold;
+            }
+        </style>
+        <script>
+            function calculateCharges() {
+                var customerName = document.getElementById("customerName").value;
+                var bookingType = document.getElementById("bookingType").value;
+                var adult = document.getElementById("adults").value;
+                var children = document.getElementById("children").value;
+                
+                var ticketCost = (adult * 1500) + (children * 1200);
+                
+                var discount = 0;
+                var result = 0;
+                
+                if (bookingType == "School") {
+                    discount = ticketCost * 0.5;
+                    result = ticketCost - discount;
+                    document.getElementById("result").innerHTML = "Thank you " + customerName + ". Total cost to be paid is " + result;
+                }
+                else if (bookingType == "Corporate") {
+                    discount = ticketCost * 0.25;
+                    result = ticketCost - discount;
+                    document.getElementById("result").innerHTML = "Thank you " + customerName + ". Total cost to be paid is " + result;
+                }
+                else if (bookingType == "Normal") {
+                    discount = 0;
+                    result = ticketCost - discount;
+                    document.getElementById("result").innerHTML = "Thank you " + customerName + ". Total cost to be paid is " + result;
+                }
+                
+                return false;
+            }
+        </script>
+    </head>
+    <body>
+        <center>
+            <h1>Book Your Tickets</h1>
+            <form onsubmit="return calculateCharges();">
+                <table>
+                    <tr>
+                        <td>
+                            <label>Customer Name</label>
+                        </td>
+                        <td>
+                            <input type="text" name="customerName" id="customerName" placeholder="Enter your name" required pattern="[a-zA-Z\s]+">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label>Address</label>
+                        </td>
+                        <td>
+                            <textarea name="address" id="address" rows="5" cols="20" required></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label>Email ID</label>
+                        </td>
+                        <td>
+                            <input type="email" name="customerEmail" id="customerEmail" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label>Mobile Number</label>
+                        </td>
+                        <td>
+                            <input type="text" name="customerMobileNumber" id="customerMobileNumber" max="10" required pattern="[7-9]{1}[0-9]{9}">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label>Park Location</label>
+                        </td>
+                        <td>
+                            <input type="radio" name="location" id="locationMumbai" value="Mumbai" required>
+                            <label>Mumbai</label>
+                            <input type="radio" name="location" id="locationDelhi" value="Delhi" required>
+                            <label>Delhi</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label>Date of Visit</label>
+                        </td>
+                        <td>
+                            <input type="date" name="dateOfVisit" id="dateOfVisit" placeholder="mm-dd-yyyy" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label>Booking Type</label>
+                        </td>
+                        <td>
+                            <input list="bookType" name="bookingType" id="bookingType" required>
+                            <datalist id="bookType" name="bookType">
+                                <option value="Normal">Normal</option>
+                                <option value="School">School</option>
+                                <option value="Corporate">Corporate</option>
+                            </datalist>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label>Adult</label>
+                        </td>
+                        <td>
+                            <input type="number" name="adults" id="adults" max="500" min="0" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label>Children</label>
+                        </td>
+                        <td>
+                            <input type="number" name="children" id="children" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="submit" value="Book Now" name="submit" id="submit">
+                        </td>
+                        <td>
+                            <input type="reset" name="reset" id="reset" value="Clear">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <div id="result" name="result"></div>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </center>
+    </body>
+</html>
